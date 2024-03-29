@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">AAs a motivated MEng graduate with a fervent interest in
+<p align="left">As a motivated MEng graduate with a fervent interest in
 cybersecurity and adept troubleshooting skills, I am cur-
 rently pursuing the final stages of my degree. I thrive
 in environments that prioritize clear communication and
