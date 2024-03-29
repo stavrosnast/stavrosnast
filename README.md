@@ -4,7 +4,14 @@
 
 ###
 
-<p align="left">As an aspiring MEng graduate with a strong passion for cybersecurity and open-source intelligence (OSINT), I’m<br>actively working towards completing my degree. I’m an enthusiastic advocate for effective communication and<br>thrive in collaborative environments, making me well-prepared for a future role in the industry. I am seeking an<br>opportunity to launch my career in the cybersecurity field and make a meaningful impact once I’ve completed my<br>studies.</p>
+<p align="left">AAs a motivated MEng graduate with a fervent interest in
+cybersecurity and adept troubleshooting skills, I am cur-
+rently pursuing the final stages of my degree. I thrive
+in environments that prioritize clear communication and
+collaborative teamwork, qualities that position me well
+for a role in IT support. Upon graduation, I am eager to
+embark on my career journey in cybersecurity, aiming to
+make a meaningful impact in the field.</p>
 
 ###
 
