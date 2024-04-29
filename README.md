@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📚 I'm currently working towards the SOC Level 1 Certification from TryHackMe <br>🎯 Goals: Learn something new everyday!</p>
+<p align="left">📚 I'm currently working towards the SOC Level 1 Certificated from TryHackMe <br>🎯 Goals: Learn something new everyday!</p>
 
 ###
 
@@ -47,9 +47,11 @@
 <div align="center"> 
   <a href="mailto:stavrosn@tutanota.com">
       <img src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" />
-  </a>
+	</a>
   <a href="https://linkedin.com/in/stavrosnast" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+	</a>
+  <a href="https://tryhackme.com/r/p/avaricious">
+	<img src="https://img.shields.io/badge/TryHackMe-avaricious-212C42" alt="TryHackMe - avaricious">
+	</a>
 </div>
-
