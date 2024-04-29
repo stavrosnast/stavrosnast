@@ -45,13 +45,13 @@
 ###
 
 <div align="center"> 
-  <a href="mailto:stavrosn@tutanota.com">
+    <a href="mailto:stavrosn@tutanota.com">
       <img src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" />
-	</a>
-  <a href="https://linkedin.com/in/stavrosnast" target="_blank">
+        </a>
+    <a href="https://tryhackme.com/r/p/avaricious">
+ 	<img src="https://img.shields.io/badge/TryHackMe-avaricious-blue?logo=TryHackMe" alt="TryHackMe - avaricious">
+        </a>
+    <a href="https://linkedin.com/in/stavrosnast" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-	</a>
-  <a href="https://tryhackme.com/r/p/avaricious">
-	<img src="https://img.shields.io/badge/TryHackMe-avaricious-212C42" alt="TryHackMe - avaricious">
-	</a>
+        </a>
 </div>
