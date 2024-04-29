@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📚 I'm currently developing my Python and Bash scripting skills<br>🎯 Goals: Learn something new everyday!</p>
+<p align="left">📚 I'm currently working towards the SOC Level 1 Certification from TryHackMe <br>🎯 Goals: Learn something new everyday!</p>
 
 ###
 
